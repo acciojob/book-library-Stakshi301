@@ -17,6 +17,10 @@ img{
 	color:#777777;
 }
 
+.book{
+	background-color:#f8f8f8;
+}
+
 .book .price{
 	background-color:rgb(46, 204, 113);
 	text-align:center;
