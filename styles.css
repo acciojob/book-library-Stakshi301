@@ -1,20 +1,9 @@
 body{
 	background-color:#f8f8f8;
-	/* background-color:green; */
-	margin-bottom:20px;
 }
 
 .book-library{
 	background-color:#ffffff;
-	/* background-color:red; */
-	/* display:block;
-	justify-content:space-between; */
-	
-}
-
-.book{
-	background-color:#f8f8f8;
-	
 }
 
 .book .author-name{
