@@ -13,7 +13,7 @@ img{
   /* width: 50%; */
 }
 
-.book .author-name{
+.author-name{
 	color:#777777;
 }
 
@@ -21,7 +21,7 @@ img{
     background-color: rgb(46, 204, 113);
 }
 
-.book .price{
+.price{
 	background-color:rgb(46, 204, 113);
 	text-align:center;
 }
