@@ -6,12 +6,19 @@ body{
 	background-color:#ffffff;
 }
 
+img{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+}
+
 .book .author-name{
 	color:#777777;
 }
 
 .book .price{
-	background-color:#2ecc71;
+	background-color:rgb(46, 204, 113);
 	text-align:center;
 }
 
